@@ -1,1 +1,1 @@
-# Rocket.Chat-interlop-teams
+# Rocket.Chat-interop-teams
