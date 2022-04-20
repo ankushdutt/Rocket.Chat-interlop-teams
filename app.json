@@ -1,15 +1,16 @@
 {
-    "id": "bc4dd4a1-bf9b-408e-83a4-aba7eba0bf02",
+    "id": "7e53f974-516c-40b4-8644-236d77fbe73d",
     "version": "0.0.1",
-    "requiredApiVersion": "^1.4.0",
+    "requiredApiVersion": "^1.19.0",
     "iconFile": "icon.png",
     "author": {
-        "name": "Rocket.Chat",
-        "homepage": "https://github.com/RocketChat",
-        "support": "a"
+        "name": "Ankush Dutt",
+        "homepage": "NA",
+        "support": "NA"
     },
-    "name": "Apps.RocketChat.Tester",
-    "nameSlug": "appsrocketchattester",
-    "classFile": "AppsRocketChatTesterApp.ts",
-    "description": "An app that provides endpoints to test Apps integration to Rocket.Chat"
+    "name": "Rocket.Chat-interop-teams",
+    "nameSlug": "rocketchat-interop-teams",
+    "classFile": "RocketChatInteropTeamsApp.ts",
+    "description": "Team Bridge: Interop with Microsoft Teams",
+    "implements": []
 }
